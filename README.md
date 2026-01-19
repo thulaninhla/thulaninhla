@@ -48,8 +48,8 @@ database/       # Migrations & seeders
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/thulaninhla/ecommerce-laravel-react.git
+cd ecommerce-laravel-react
 ```
 
 ### 2. Install Dependencies
@@ -68,9 +68,9 @@ php artisan key:generate
 Update the `.env` file with your database credentials:
 
 ```
-DB_DATABASE=your_database
-DB_USERNAME=your_username
-DB_PASSWORD=your_password
+DB_DATABASE=kasi_shop
+DB_USERNAME=root
+DB_PASSWORD=
 ```
 
 ### 4. Run Migrations
@@ -125,7 +125,7 @@ Password: password
 Junior PHP / Laravel Developer
 📧 Email: [thulaninhlapo2@gmail.com](mailto:thulaninhlapo2@gmail.com)
 📞 Phone: 072 438 9800
-🌐 GitHub: [https://github.com/your-username](https://github.com/your-username)
+🌐 GitHub: [https://github.com/your-username](https://github.com/thulaninhla)
 
 ---
 
